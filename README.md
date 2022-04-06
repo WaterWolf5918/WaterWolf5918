@@ -1,4 +1,4 @@
 - Hi Im WaterWolf5918 or Nightowl
-- Im trying to get better at javascript 
+- Im Trying To Get Better At Javascript and html
 - Right Now Im The Head Dev Of WaterPad
 - Well have a Nice Day Hope That This Was Useful 
