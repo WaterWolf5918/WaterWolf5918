@@ -1,4 +1,4 @@
-- Hi Im WaterWolf5918 or Nightowl
-- Im Trying To Get Better At Javascript and html
-- Right Now Im The Head Dev Of WatchRPC
-- Well have a Nice Day 
+- 👋 Hi Im WaterWolf5918 
+- 📎 Im Trying To Get Better At Javascript and html
+- 🛠️ Right Now Im The Head Dev Of WatchRPC and ServerCity
+- Have a Nice Day :)
