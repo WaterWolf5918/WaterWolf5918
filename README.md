@@ -1,4 +1,4 @@
 - 👋 Hi Im WaterWolf5918 
-- 📎 Im Trying To Get Better At Javascript and html
-- 🛠️ Right Now Im The Head Dev Of WatchRPC and ServerCity
+- 📎 Im Trying To Get Better At Typescript and HTML
+- 🛠️ Right Now I'm working on OpenMediaShare and Glide
 - Have a Nice Day :)
